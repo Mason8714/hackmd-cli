@@ -1,6 +1,6 @@
 {
   "name": "hackmd-cli",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "The HackMD Command Line Tool",
   "main": "src/index.ts",
   "scripts": {
