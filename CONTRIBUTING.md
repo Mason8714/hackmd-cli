@@ -25,3 +25,4 @@ Notes and usage details for hackmd-cli.
 - link the usage section
 - link the usage section
 - link the usage section
+- link the usage section
